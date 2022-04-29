@@ -1,7 +1,7 @@
 ![CircleCI branch][circle-ci-badge]
 [![npm][npm]][npm-url]
 
-<h1 align="center">React Native Voice</h1>
+<h1 align="center">React Native <i>Cachable</i> Voice</h1>
 <p align="center">A speech-to-text library for <a href="https://reactnative.dev/">React Native.</a></p>
 
 <a href="https://discord.gg/CJHKVeW6sp">
